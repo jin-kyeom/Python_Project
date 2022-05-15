@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+""" #!/usr/bin/env python3 """
+import matplotlib
 import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 
